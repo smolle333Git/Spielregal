@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33589008052",
+    "project_id": "spieleapp-zwei",
+    "storage_bucket": "spieleapp-zwei.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33589008052:android:5efb4149aeea2e3f47a9e1",
+        "android_client_info": {
+          "package_name": "build.gradle.kts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTNzhFMc8OZeh1NZz0S0O2P4zlji_12I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
